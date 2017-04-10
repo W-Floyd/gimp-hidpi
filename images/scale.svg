@@ -87,7 +87,7 @@
        id="rect4716"
        rx="0.93933976"
        ry="1.0277281"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        width="8.0000019"
        x="121.0002"
        y="209" />
@@ -95,12 +95,12 @@
        inkscape:connector-curvature="0"
        d="m 134.66686,181 c -0.92332,0 -1.66666,0.76458 -1.66666,1.71428 l 0,6.85714 0,1.7143 c 0,0.9497 0.74334,1.71428 1.66666,1.71428 l 11.66668,0 5,0 c 0.92332,0 1.66666,-0.76458 1.66666,-1.71428 l 0,-6.85714 0,-1.7143 c 0,-0.9497 -0.74334,-1.71428 -1.66666,-1.71428 l -11.66668,0 -5,0 z"
        id="rect4718"
-       style="fill:#808080;fill-opacity:1;stroke:none" />
+       style="fill:#868C98;fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        d="m 133.0002,197 4,4 -6,6 2,2 2,-2 4,-4 4,4 0,-10 -6,0 z"
        id="path10525"
        sodipodi:nodetypes="cccccccccc"
-       style="fill:#808080;fill-opacity:1;stroke:none" />
+       style="fill:#868C98;fill-opacity:1;stroke:none" />
   </g>
 </svg>

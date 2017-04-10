@@ -87,7 +87,7 @@
     <rect
        height="4.5714288"
        id="rect5249"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        transform="scale(-1,1)"
        width="4.5714364"
        x="-190.14305"
@@ -95,7 +95,7 @@
     <rect
        height="6.8571429"
        id="rect5265"
-       style="opacity:0.3;fill:#808080;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#868C98;fill-opacity:1;stroke:none"
        width="6.8571467"
        x="185.57162"
        y="265.57144" />
@@ -103,11 +103,11 @@
        inkscape:connector-curvature="0"
        d="m 181.0002,261 0,32 32,0 0,-32 -32,0 z m 2.28571,2.28571 27.42858,0 0,27.42858 -27.42858,0 0,-27.42858 z"
        id="rect5267"
-       style="fill:#808080;fill-opacity:1;stroke:none" />
+       style="fill:#868C98;fill-opacity:1;stroke:none" />
     <rect
        height="6.8571467"
        id="rect5286"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        transform="matrix(0,-1,-1,0,0,0)"
        width="6.8571429"
        x="-272.42856"
@@ -115,7 +115,7 @@
     <rect
        height="4.5714326"
        id="rect5353"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        transform="matrix(0,1,-1,0,0,0)"
        width="4.5714288"
        x="265.57144"
@@ -123,14 +123,14 @@
     <rect
        height="6.8571429"
        id="rect5355"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        width="4.5714326"
        x="203.85735"
        y="277" />
     <rect
        height="4.571425"
        id="rect5373"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        transform="matrix(0,1,-1,0,0,0)"
        width="4.5714288"
        x="272.42856"
@@ -138,7 +138,7 @@
     <rect
        height="4.5714326"
        id="rect5375"
-       style="opacity:0.3;fill:#808080;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#868C98;fill-opacity:1;stroke:none"
        transform="matrix(0,-1,-1,0,0,0)"
        width="4.5714288"
        x="-288.42856"
@@ -146,7 +146,7 @@
     <rect
        height="6.8571048"
        id="rect5377"
-       style="opacity:0.3;fill:#808080;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#868C98;fill-opacity:1;stroke:none"
        transform="matrix(3.3046512e-6,-1,-1,0,0,0)"
        width="6.8571429"
        x="-283.85715"
@@ -154,7 +154,7 @@
     <rect
        height="6.8571429"
        id="rect5379"
-       style="opacity:0.3;fill:#808080;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#868C98;fill-opacity:1;stroke:none"
        transform="matrix(0,-1,-1,0,0,0)"
        width="4.5714288"
        x="-277"
@@ -162,7 +162,7 @@
     <rect
        height="4.571425"
        id="rect5382"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        transform="matrix(0,1,-1,0,0,0)"
        width="4.5714288"
        x="283.85715"
@@ -170,7 +170,7 @@
     <rect
        height="6.8571429"
        id="rect5384"
-       style="fill:#808080;fill-opacity:1;stroke:none"
+       style="fill:#868C98;fill-opacity:1;stroke:none"
        width="6.8571467"
        x="185.57162"
        y="281.57144" />
