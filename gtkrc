@@ -1,9 +1,1 @@
 include "imagerc"
-
-style "gimp-empty-image-style" = "gimp-default-style"
-{
-  bg[NORMAL] = "#404552"
-  fg[NORMAL] = "#5c616c"
-}
-
-widget_class "*Canv*" style:highest "gimp-empty-image-style"
