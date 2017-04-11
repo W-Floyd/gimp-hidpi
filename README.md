@@ -39,6 +39,7 @@ The icons are from the [GNOME Project](http://www.gnome.org). Specifically, they
 
  - https://github.com/gnome-design-team/gnome-icons/
  
+Their colours have been modified to match the Arc theme.
 
 ## License
 
