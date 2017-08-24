@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32pt" height="32pt" viewBox="0 0 32 32" version="1.1">
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 1 -1 L 5.570312 -1 L 5.570312 31 L 1 31 Z M 1 -1 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 7.800781 3.515625 L 21.570312 3.515625 L 21.570312 12.714844 L 7.800781 12.714844 Z M 7.800781 3.515625 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 7.855469 17.285156 L 30.714844 17.285156 L 30.714844 26.429688 L 7.855469 26.429688 Z M 7.855469 17.285156 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 1 -1 L 5.570312 -1 L 5.570312 31 L 1 31 Z M 1 -1 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 7.800781 3.515625 L 21.570312 3.515625 L 21.570312 12.714844 L 7.800781 12.714844 Z M 7.800781 3.515625 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 7.855469 17.285156 L 30.714844 17.285156 L 30.714844 26.429688 L 7.855469 26.429688 Z M 7.855469 17.285156 "/>
 </g>
 </svg>

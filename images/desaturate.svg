@@ -13,13 +13,13 @@
   <rect width="32" height="32"/>
 </clipPath>
 <g id="surface6" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 2.285156 29.714844 L 2.285156 9.144531 L 27.429688 29.714844 Z M 2.285156 29.714844 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 2.285156 29.714844 L 2.285156 9.144531 L 27.429688 29.714844 Z M 2.285156 29.714844 "/>
 </g>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 0 0 L 0 32 L 32 32 L 32 0 Z M 2.285156 2.285156 L 29.714844 2.285156 L 29.714844 29.714844 L 2.285156 29.714844 Z M 2.285156 2.285156 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 2.285156 2.285156 L 29.714844 25.144531 Z M 2.285156 6.855469 L 29.714844 29.714844 Z M 2.285156 6.855469 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 0 0 L 0 32 L 32 32 L 32 0 Z M 2.285156 2.285156 L 29.714844 2.285156 L 29.714844 29.714844 L 2.285156 29.714844 Z M 2.285156 2.285156 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 2.285156 2.285156 L 29.714844 25.144531 Z M 2.285156 6.855469 L 29.714844 29.714844 Z M 2.285156 6.855469 "/>
 <use xlink:href="#surface6" mask="url(#mask0)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 29.714844 2.285156 L 29.714844 22.855469 L 4.570312 2.285156 Z M 29.714844 2.285156 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 29.714844 2.285156 L 29.714844 22.855469 L 4.570312 2.285156 Z M 29.714844 2.285156 "/>
 </g>
 </svg>

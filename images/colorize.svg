@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32pt" height="32pt" viewBox="0 0 32 32" version="1.1">
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 5 0 L 23 0 C 24.105469 0 25 0.894531 25 2 L 25 6 C 25 7.105469 24.105469 8 23 8 L 5 8 C 3.894531 8 3 7.105469 3 6 L 3 2 C 3 0.894531 3.894531 0 5 0 Z M 5 0 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 21 4 L 29 4 L 29 6 L 21 6 Z M 21 4 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 28 4 C 28.550781 4 29 4.894531 29 6 L 29 12 C 29 13.105469 28.550781 14 28 14 C 27.449219 14 27 13.105469 27 12 L 27 6 C 27 4.894531 27.449219 4 28 4 Z M 28 4 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 11 12 L 27 12 C 28.105469 12 29 12.449219 29 13 C 29 13.550781 28.105469 14 27 14 L 11 14 C 9.894531 14 9 13.550781 9 13 C 9 12.449219 9.894531 12 11 12 Z M 11 12 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 9 12 L 11 12 L 11 20 L 9 20 Z M 9 12 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 7 20 L 13 20 L 13 32 L 7 32 Z M 7 20 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 5 0 L 23 0 C 24.105469 0 25 0.894531 25 2 L 25 6 C 25 7.105469 24.105469 8 23 8 L 5 8 C 3.894531 8 3 7.105469 3 6 L 3 2 C 3 0.894531 3.894531 0 5 0 Z M 5 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 21 4 L 29 4 L 29 6 L 21 6 Z M 21 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 28 4 C 28.550781 4 29 4.894531 29 6 L 29 12 C 29 13.105469 28.550781 14 28 14 C 27.449219 14 27 13.105469 27 12 L 27 6 C 27 4.894531 27.449219 4 28 4 Z M 28 4 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 11 12 L 27 12 C 28.105469 12 29 12.449219 29 13 C 29 13.550781 28.105469 14 27 14 L 11 14 C 9.894531 14 9 13.550781 9 13 C 9 12.449219 9.894531 12 11 12 Z M 11 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 9 12 L 11 12 L 11 20 L 9 20 Z M 9 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 7 20 L 13 20 L 13 32 L 7 32 Z M 7 20 "/>
 </g>
 </svg>

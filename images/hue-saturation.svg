@@ -13,7 +13,7 @@
   <rect width="32" height="32"/>
 </clipPath>
 <g id="surface6" clip-path="url(#clip1)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 12 12 L 18 12 L 18 20 L 12 20 Z M 12 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 12 12 L 18 12 L 18 20 L 12 20 Z M 12 12 "/>
 </g>
 <mask id="mask1">
   <g filter="url(#alpha)">
@@ -24,7 +24,7 @@
   <rect width="32" height="32"/>
 </clipPath>
 <g id="surface9" clip-path="url(#clip2)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 10 14 L 12 14 L 12 16 L 10 16 Z M 10 14 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 10 14 L 12 14 L 12 16 L 10 16 Z M 10 14 "/>
 </g>
 <mask id="mask2">
   <g filter="url(#alpha)">
@@ -35,7 +35,7 @@
   <rect width="32" height="32"/>
 </clipPath>
 <g id="surface12" clip-path="url(#clip3)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 10 18 L 12 18 L 12 20 L 10 20 Z M 10 18 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 10 18 L 12 18 L 12 20 L 10 20 Z M 10 18 "/>
 </g>
 <mask id="mask3">
   <g filter="url(#alpha)">
@@ -46,7 +46,7 @@
   <rect width="32" height="32"/>
 </clipPath>
 <g id="surface15" clip-path="url(#clip4)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 8 16 L 10 16 L 10 18 L 8 18 Z M 8 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 8 16 L 10 16 L 10 18 L 8 18 Z M 8 16 "/>
 </g>
 <mask id="mask4">
   <g filter="url(#alpha)">
@@ -57,24 +57,24 @@
   <rect width="32" height="32"/>
 </clipPath>
 <g id="surface18" clip-path="url(#clip5)">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 8 12 L 10 12 L 10 14 L 8 14 Z M 8 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 8 12 L 10 12 L 10 14 L 8 14 Z M 8 12 "/>
 </g>
 </defs>
 <g id="surface1">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 6 0 L 12 8 L 18 0 Z M 6 0 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 6 32 L 12 24 L 18 32 Z M 6 32 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 2 10 L 2 22 L 30 22 L 30 10 Z M 4 12 L 28 12 L 28 20 L 4 20 C 4 17.601562 4 19.601562 4 12 Z M 4 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 6 0 L 12 8 L 18 0 Z M 6 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 6 32 L 12 24 L 18 32 Z M 6 32 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 2 10 L 2 22 L 30 22 L 30 10 Z M 4 12 L 28 12 L 28 20 L 4 20 C 4 17.601562 4 19.601562 4 12 Z M 4 12 "/>
 <use xlink:href="#surface6" mask="url(#mask0)"/>
 <use xlink:href="#surface9" mask="url(#mask1)"/>
 <use xlink:href="#surface12" mask="url(#mask2)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 24 12 L 28 12 L 28 20 L 24 20 Z M 24 12 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 22 16 L 24 16 L 24 18 L 22 18 Z M 22 16 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 22 12 L 24 12 L 24 14 L 22 14 Z M 22 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 24 12 L 28 12 L 28 20 L 24 20 Z M 24 12 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 22 16 L 24 16 L 24 18 L 22 18 Z M 22 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 22 12 L 24 12 L 24 14 L 22 14 Z M 22 12 "/>
 <use xlink:href="#surface15" mask="url(#mask3)"/>
 <use xlink:href="#surface18" mask="url(#mask4)"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 20 20 L 22 20 L 22 18 L 20 18 Z M 20 20 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 20 16 L 22 16 L 22 14 L 20 14 Z M 20 16 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 18 14 L 20 14 L 20 12 L 18 12 Z M 18 14 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(52.54902%,54.901961%,59.607843%);fill-opacity:1;" d="M 18 18 L 20 18 L 20 16 L 18 16 Z M 18 18 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 20 20 L 22 20 L 22 18 L 20 18 Z M 20 20 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 20 16 L 22 16 L 22 14 L 20 14 Z M 20 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 18 14 L 20 14 L 20 12 L 18 12 Z M 18 14 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:#A4ADB2;fill-opacity:1;" d="M 18 18 L 20 18 L 20 16 L 18 16 Z M 18 18 "/>
 </g>
 </svg>
